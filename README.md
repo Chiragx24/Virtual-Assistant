@@ -1,1 +1,1 @@
-An intelligent virtual assistant (IVA) or intelligent personal assistant (IPA) may be a software agent which will perform tasks or services for a private supported commands or questions. Sometimes the term "chatbot" is employed to ask virtual assistants generally or specifically accessed by online chat.
+
